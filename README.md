@@ -80,8 +80,8 @@ This project is licensed under the **MIT License**.
 
 For any inquiries or support, please contact:
 
-- 📧 Email: [abhishekpratapsingh@example.com](mailto:abhishekpratapsingh@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/abhishekpratapsingh](https://www.linkedin.com/in/abhishekpratapsingh/)
+- 📧 Email: [abhishekpratapsingh1234@gmail.com](mailto:abhishekpratapsingh1234@gmail.com.com)
+- 🔗 LinkedIn: [linkedin.com/in/abhishekpratapsingh](https://www.linkedin.com/in/abhishek-pratap-singh-88523a207/)
 
 ---
 
